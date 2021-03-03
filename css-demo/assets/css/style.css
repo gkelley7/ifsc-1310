@@ -1,0 +1,26 @@
+/* CSS Demo Stylesheet */
+
+body {
+    background-color:white;
+}
+
+/* Box Sizing */
+
+html {
+    box-sizing: border-box;
+}
+*,
+*:after {
+    box-sizing: inherit;
+}
+
+/* Global Styles */
+
+body {
+  margin:0;
+  font-family: 'Lato', Arial, sans-serif;
+}
+
+header.primary {
+    background:red;
+}
