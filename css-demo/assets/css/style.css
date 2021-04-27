@@ -12,7 +12,7 @@ html {
 /* ---------------Responsive Images----------------- */
 img{
   max-width:100%;
-  height:auto;
+  height:100%;
 }
 
 /* ---------------Utility Classes----------------- */
@@ -227,7 +227,7 @@ aside footer{
 }
 
 table{
-  width:100%;
+  width:100%;7
   border:1px solid #c0c0c0;
   border-collapse:collapse;
   margin-bottom:40px;
